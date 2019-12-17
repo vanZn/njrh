@@ -1,0 +1,8 @@
+#app,
+.home,
+.el-container{
+    height:100%;
+}
+.el-main{
+    line-height: 0;
+}
